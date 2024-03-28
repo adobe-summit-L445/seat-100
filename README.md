@@ -19,7 +19,7 @@ Additionally, you need to have the following modules and customizations installe
 1. magento/module-visual-product-recommendations: Commerce module required for PRex Widget
 <!-- 1. TODO: Add further prereqs.  -->
 
-## Installation
+## Installation 
 
 ```sh
 npm i
